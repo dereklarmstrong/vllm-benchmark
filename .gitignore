@@ -1,0 +1,6 @@
+.env
+benchmark_results/
+__pycache__/
+*.pyc
+*.json
+response_*.json
